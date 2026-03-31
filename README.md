@@ -13,29 +13,20 @@ I'm a Computer Science and Engineering student (Class of 2027) dedicated to buil
 * **Digital Media & Content Strategy:** Managing the end-to-end production, audience analytics, and content strategy for a high-retention gaming channel focused on mechanical precision and analytical breakdowns.
 
 ### 🛠 Languages and Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="35" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" style="padding-right:10px;" />
-  
- <p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-172B4D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Anomaly%20Detection-8B0000?style=for-the-badge" />
-</p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Open%20Source%20Dev-4CAF50?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Technical%20Writing-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Content%20Strategy-008080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Audience%20Analytics-E95420?style=for-the-badge" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" style="padding-right:10px;" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" style="padding-right:10px;" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" style="padding-right:10px;" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" style="padding-right:10px;" alt="JavaScript" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" style="padding-right:10px;" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="35" style="padding-right:10px;" alt="Ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35" style="padding-right:10px;" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" style="padding-right:10px;" alt="Git" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" style="padding-right:10px;" alt="Machine Learning / TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" style="padding-right:10px;" alt="Node.js" />
 </p>
 
 </p>
