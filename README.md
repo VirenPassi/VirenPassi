@@ -6,9 +6,10 @@ I'm a Computer Science and Engineering student (Class of 2027) dedicated to buil
 ---
 
 ### 🔨 The Workshop
-* **Open Source:** Contributing to large-scale educational platforms to improve global learning tools.
-* **Research & Development:** Exploring ensemble-driven detection systems and the frontier of Quantum Neural Networks.
+* **Open Source Development:** Actively contributing to major open-source ecosystems (including **scikit-learn**) and large-scale educational technology    platforms. Focused on issue triage, feature development, and rigorous peer code reviews.
+* **Research & Development:** First Author on research involving hybrid malware detection frameworks. Utilizing ensemble learning (Random Forest, XGBoost) and anomaly override mechanisms (Isolation Forest) to build resilient systems.
 * **Engineering:** Focused on "measure twice, cut once" development—building scalable Python-based solutions.
+* **Targeting:** Google Summer of Code (GSoC) 2026.
 * **Mechanical Persistence:** Documenting high-skill execution and frame-perfect parries at [Beastiphied](https://www.youtube.com/@beastiphied).
 
 ### 🛠 Languages and Tools
@@ -21,13 +22,20 @@ I'm a Computer Science and Engineering student (Class of 2027) dedicated to buil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" style="padding-right:10px;" />
 </p>
 
-### 📊 Expertise Overview
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirenPassi&layout=compact&theme=dark&hide_border=true&langs_count=5" alt="Top Languages" />
+### 📜 Recent Research & Publications
 
-### 📺 Latest Technical Challenge
-<a href="https://www.youtube.com/@beastiphied">
-  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="400" style="border-radius:10px;" />
-</a>
+**Ensemble-Driven Malware Detection with Anomaly Override Capabilities** *(Accepted: ICACT 2026)*
+* **Role:** First Author 
+* **Overview:** Engineered a two-stage hybrid framework integrating Random Forest and XGBoost via probabilistic averaging. Implemented an Isolation Forest-based anomaly override to dynamically flag uncertain samples, achieving 91.49% test accuracy and significantly reducing false negatives.
+* **Tech:** `Python`, `XGBoost`, `Isolation Forest`, `ANOVA F-score`
 
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VirenPassi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Viren's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirenPassi&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" width="48%" />
+</p>
 ---
 *“Precision in logic, perfection in execution.”*
