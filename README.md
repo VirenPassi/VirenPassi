@@ -7,6 +7,7 @@ I'm a Computer Science and Engineering student (Class of 2027) dedicated to buil
 
 ### 🔨 The Workshop
 * **Open Source:** Contributing to large-scale educational platforms to improve global learning tools.
+* **Research & Development:** Exploring ensemble-driven detection systems and the frontier of Quantum Neural Networks.
 * **Engineering:** Focused on "measure twice, cut once" development—building scalable Python-based solutions.
 * **Mechanical Persistence:** Documenting high-skill execution and frame-perfect parries at [Beastiphied](https://www.youtube.com/@beastiphied).
 
