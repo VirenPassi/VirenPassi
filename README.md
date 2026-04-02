@@ -70,20 +70,20 @@
   <table border="0">
     <tr>
       <td width="48%" align="center" valign="top">
-        <img src="https://my-github-stats-teal-six.vercel.app/api?username=VirenPassi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=5" height="195px" />
+        <img src="https://my-github-stats-teal-six.vercel.app/api?username=VirenPassi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=7" height="195px" />
       </td>
       <td width="4%" align="center"></td>
       <td width="48%" align="center" valign="top">
-        <img src="https://my-github-stats-teal-six.vercel.app/api/top-langs/?username=VirenPassi&layout=donut&theme=tokyonight&hide_border=true&hide=html,css,php&langs_count=5&v=5" height="195px" />
+        <img src="https://my-github-stats-teal-six.vercel.app/api/top-langs/?username=VirenPassi&layout=donut&theme=tokyonight&hide_border=true&hide=html,css,php&langs_count=5&v=7" height="195px" />
       </td>
     </tr>
   </table>
 
   <br>
 
-  <img src="https://my-github-trophies.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true&v=5" alt="Viren's Trophies" />
+  <img src="https://my-github-trophies.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true&v=7" alt="Viren's Trophies" />
 
   <br><br>
 
   *“Precision in logic, perfection in execution.”*
-</div>
+</div>>
