@@ -10,6 +10,10 @@
   <a href="mailto:virenpassi79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
+<p align="center">
+  📫 Reach me at: <b>virenpassi79@gmail.com</b>
+</p>
+
 ---
 
 ### 🔨 The Workshop
