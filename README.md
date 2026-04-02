@@ -66,15 +66,18 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VirenPassi&show_icons=true&theme=tokyonight&hide_border=true" alt="Viren's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirenPassi&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true" alt="Viren's Trophies" />
-</p>
+![GitHub Stats](https://my-github-stats-teal-six.vercel.app/api?username=VirenPassi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<p align="center">
-  <em>“Precision in logic, perfection in execution.”</em>
-</p>
+![Top Languages](https://my-github-stats-teal-six.vercel.app/api/top-langs/?username=VirenPassi&layout=compact&theme=tokyonight&hide_border=true&langs_count=5)
+
+<br>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true)
+
+<br>
+
+*“Precision in logic, perfection in execution.”*
+
+</div>>
