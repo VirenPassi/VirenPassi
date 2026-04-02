@@ -68,18 +68,15 @@
 
 <div align="center">
 
-![GitHub Stats](https://my-github-stats-teal-six.vercel.app/api?username=VirenPassi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://my-github-stats-teal-six.vercel.app/api/top-langs/?username=VirenPassi&layout=compact&theme=tokyonight&hide_border=true&langs_count=5)
+![Viren's GitHub Stats](https://my-github-stats-teal-six.vercel.app/api?username=VirenPassi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://my-github-stats-teal-six.vercel.app/api/top-langs/?username=VirenPassi&layout=donut&theme=tokyonight&hide_border=true&hide=html,css,php&langs_count=5)
 
 <br>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true)
+[![Viren's Trophies](https://github-profile-trophy.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
 *“Precision in logic, perfection in execution.”*
 
 </div>
-
-</div>>
