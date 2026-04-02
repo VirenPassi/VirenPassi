@@ -33,11 +33,10 @@ I'm a Computer Science and Engineering student (Class of 2027) dedicated to buil
 
 ### 📜 Recent Research & Publications
 
-**Ensemble-Driven Malware Detection with Anomaly Override Capabilities** *(Accepted: ICACT 2026)*
+**[Ensemble-Driven Malware Detection with Anomaly Override Capabilities](https://ieeexplore.ieee.org/document/11431268)** *(Accepted: ICACT 2026)*
 * **Role:** First Author 
 * **Overview:** Engineered a two-stage hybrid framework integrating Random Forest and XGBoost via probabilistic averaging. Implemented an Isolation Forest-based anomaly override to dynamically flag uncertain samples, achieving 91.49% test accuracy and significantly reducing false negatives.
 * **Tech:** `Python`, `XGBoost`, `Isolation Forest`, `ANOVA F-score`
-
 ---
 
 ### 📊 GitHub Analytics
