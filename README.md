@@ -81,7 +81,5 @@
 
   <br>
 
-  <br><br>
-
   *“Precision in logic, perfection in execution.”*
 </div>
