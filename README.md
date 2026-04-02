@@ -81,8 +81,6 @@
 
   <br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true&row=1&column=7&margin-w=15" alt="Viren's Trophies" />
-
   <br><br>
 
   *“Precision in logic, perfection in execution.”*
