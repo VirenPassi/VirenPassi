@@ -69,20 +69,20 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" align="center" valign="top">
-        <img src="https://my-github-stats-teal-six.vercel.app/api?username=VirenPassi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="Viren's GitHub Stats" />
+      <td width="49%" align="center" valign="top">
+        <img src="https://my-github-stats-teal-six.vercel.app/api?username=VirenPassi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=3" height="195px" alt="Stats" />
       </td>
-      <td width="50%" align="center" valign="top">
-        <img src="https://my-github-stats-teal-six.vercel.app/api/top-langs/?username=VirenPassi&layout=donut&theme=tokyonight&hide_border=true&hide=html,css,php&langs_count=5" alt="Top Languages" />
+      <td width="2%" align="center"></td> <td width="49%" align="center" valign="top">
+        <img src="https://my-github-stats-teal-six.vercel.app/api/top-langs/?username=VirenPassi&layout=donut&theme=tokyonight&hide_border=true&hide=html,css,php&langs_count=5&v=3" height="195px" alt="Languages" />
       </td>
     </tr>
   </table>
 
   <br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true" alt="Viren's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true&v=3" alt="Viren's Trophies" />
 
   <br><br>
 
   *“Precision in logic, perfection in execution.”*
-</div>>
+</div>
