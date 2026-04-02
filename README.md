@@ -1,15 +1,4 @@
-# 🏄‍♂️ Viren Passi
-**`Digital Craftsman | Computer Science & Engineering | Open Source Contributor`**
-
-I'm a Computer Science and Engineering student (Class of 2027) dedicated to building clean, efficient digital solutions. I treat every project with a craftsman's mindset—whether I'm refining open-source code for global ecosystems or engineering scalable machine learning frameworks.
-
-
-
-<p align="center">
-  <em>“Precision in logic, perfection in execution.”</em>
-</p>
-
-<h1 align="center">Hi there, I'm Viren 👋</h1>
+<h1 align="center">🏄‍♂️ Viren Passi</h1>
 <h3 align="center">Digital Craftsman | Computer Science & Engineering | Open Source Contributor</h3>
 
 <p align="center">
