@@ -87,8 +87,11 @@
       </td>
       <td width="4%" align="center"></td>
       <td width="48%" align="center" valign="top">
-        <img src="https://my-github-stats-teal-six.vercel.app/api/top-langs/?username=VirenPassi&layout=donut&theme=tokyonight&hide_border=true&hide=html,css,php&langs_count=5&v=final" height="195px" alt="Languages" />
+       <img src="https://my-github-stats-teal-six.vercel.app/api/top-langs/?username=VirenPassi&layout=donut&theme=tokyonight&hide_border=true&hide=html,css,php,javascript&langs_count=5" height="195px" />
       </td>
+      <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
     </tr>
   </table>
 
