@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c45d42eb-b0fe-4833-8b41-6688e535915f" width="100%" alt="Viren's Workshop" />
+</p>
+
 <h1 align="center">🏄‍♂️ Viren Passi</h1>
 <h3 align="center">Digital Craftsman | Computer Science & Engineering | Open Source Contributor</h3>
 
