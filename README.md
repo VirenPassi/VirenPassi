@@ -18,13 +18,6 @@
 
 ---
 
-### 🏆 Excellence Badges
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true&rank=SSS,SS,S,AAA,AA,A&column=7" alt="Trophies" />
-</p>
-
----
-
 ### 🔨 The Workshop
 * **Open Source Development:** Actively contributing to major open-source ecosystems (including **scikit-learn**) and large-scale educational technology platforms. Focused on issue triage, feature development, and rigorous peer code reviews.
 * **Research & R&D:** First Author on research involving hybrid malware detection frameworks. Utilizing ensemble learning (Random Forest, XGBoost) and anomaly override mechanisms (Isolation Forest) to build resilient systems.
@@ -90,18 +83,23 @@
   <table border="0">
     <tr>
       <td width="48%" align="center" valign="top">
-        <img src="https://my-github-stats-teal-six.vercel.app/api?username=VirenPassi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=final_fix" height="195px" alt="Stats" />
+        <img src="https://my-github-stats-teal-six.vercel.app/api?username=VirenPassi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=craftsman_final" height="195px" />
       </td>
       <td width="4%" align="center"></td>
       <td width="48%" align="center" valign="top">
-        <img src="https://my-github-stats-teal-six.vercel.app/api/top-langs/?username=VirenPassi&layout=donut&theme=tokyonight&hide_border=true&hide=html,css,php,hack,javascript&langs_count=5" height="195px" />
+        <img src="https://my-github-stats-teal-six.vercel.app/api/top-langs/?username=VirenPassi&layout=donut&theme=tokyonight&hide_border=true&hide=html,css,php,hack&langs_count=5" height="195px" />
       </td>
     </tr>
   </table>
 
+  <p align="center">
+    <img src="https://img.shields.io/badge/Primary%20OS-Ubuntu%2022.04%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Shell-GNU%20Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  </p>
+
   <br>
 
-  <img src="https://my-github-trophies.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true&rank=SSS,SS,S,AAA,AA,A&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true&rank=SSS,SS,S,AAA,AA,A&column=7&margin-w=15" alt="Trophies" />
 
   <br><br>
 
