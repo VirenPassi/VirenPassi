@@ -18,6 +18,13 @@
 
 ---
 
+### 🏆 Excellence Badges
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true&rank=SSS,SS,S,AAA,AA,A&column=7" alt="Trophies" />
+</p>
+
+---
+
 ### 🔨 The Workshop
 * **Open Source Development:** Actively contributing to major open-source ecosystems (including **scikit-learn**) and large-scale educational technology platforms. Focused on issue triage, feature development, and rigorous peer code reviews.
 * **Research & R&D:** First Author on research involving hybrid malware detection frameworks. Utilizing ensemble learning (Random Forest, XGBoost) and anomaly override mechanisms (Isolation Forest) to build resilient systems.
@@ -87,11 +94,8 @@
       </td>
       <td width="4%" align="center"></td>
       <td width="48%" align="center" valign="top">
-       <img src="https://my-github-stats-teal-six.vercel.app/api/top-langs/?username=VirenPassi&layout=donut&theme=tokyonight&hide_border=true&hide=html,css,php,javascript&langs_count=5" height="195px" />
+      <img src="https://my-github-stats-teal-six.vercel.app/api/top-langs/?username=VirenPassi&layout=donut&theme=tokyonight&hide_border=true&hide=html,css,php,hack&langs_count=5" height="195px" />
       </td>
-      <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
     </tr>
   </table>
 
