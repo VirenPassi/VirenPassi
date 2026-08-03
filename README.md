@@ -23,12 +23,11 @@
 ---
 
 ### 🔨 The Workshop
-* **Open Source Development:** Actively contributing to major open-source ecosystems (including **scikit-learn**) and large-scale educational technology platforms. Focused on issue triage, feature development, and rigorous peer code reviews.
+* **Open Source Development:** CORE team member for **The Oppia Foundation**. Specializing in resolving continuous integration (CI) flakes, managing pull requests, and developing end-to-end testing infrastructure using Puppeteer and Playwright. Also actively contributing to the **scikit-learn** ecosystem.
 * **Research & R&D:** First Author on research involving hybrid malware detection frameworks. Utilizing ensemble learning (Random Forest, XGBoost) and anomaly override mechanisms (Isolation Forest) to build resilient systems.
-* **Engineering:** Focused on "measure twice, cut once" development—building scalable Python-based solutions.
-* **Targeting:** Google Summer of Code (GSoC) 2026.
-* **Digital Media & Content Strategy:** Managing the end-to-end production, audience analytics, and content strategy for a high-retention digital channel focused on mechanical precision and analytical breakdowns.
-
+* **Competitive Engineering:** Focused on "measure twice, cut once" development. Actively solving advanced algorithmic challenges.
+* **Targeting:** Google Summer of Code (GSoC) 2027.
+* **Digital Media & Content Strategy:** Managing the end-to-end production and content strategy for a digital channel focused on mechanical precision. Built a library of 65 total videos (including 22 short-form assets), utilizing hardware-accelerated workflows for high-fidelity recording and rendering.
 ---
 
 ### 💻 Tech Stack
@@ -107,7 +106,8 @@
   </table>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Primary%20OS-Ubuntu%2022.04%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/WSL_Ubuntu_22.04-E95420?style=flat-square&logo=ubuntu&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Shell-GNU%20Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   </p>
 
