@@ -12,18 +12,13 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Generate Trophy
-        uses: ryo-ma/github-profile-trophy@v1
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USER: VirenPassi
-          theme: tokyonight
-          no-bg: "false"
-          no-frame: "true"
-          column: "8"
-          margin-w: "15"
-          output_action: "save"
-          file_output: "assets/trophies.svg"
+          node-version: 20
+      - name: Generate Trophy
+        run: |
+          npx @ryo-ma/github-profile-trophy@latest generate -u VirenPassi --theme tokyonight --no-bg false --no-frame true --column 8 --margin-w 15 --output assets/trophies.svg
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
