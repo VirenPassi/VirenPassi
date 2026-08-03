@@ -113,7 +113,9 @@
 
   <br>
 
-  <img src="https://my-github-trophies.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true&column=8&margin-w=15" alt="Trophies" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VirenPassi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
 
   <br><br>
 
