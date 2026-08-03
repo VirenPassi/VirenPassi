@@ -12,14 +12,21 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+      
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Generate Trophy
+          
+      - name: Create assets directory
+        run: mkdir -p assets
+
+      - name: Generate Trophy SVG via NPX
         run: |
-          npx @ryo-ma/github-profile-trophy@latest generate -u VirenPassi --theme tokyonight --no-bg false --no-frame true --column 8 --margin-w 15 --output assets/trophies.svg
-      - name: Commit and push
+          npx @ryo-ma/github-profile-trophy generate -u VirenPassi --theme tokyonight --no-bg false --no-frame true --column 8 --margin-w 15 --output assets/trophies.svg
+
+      - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "update-trophies"
+          commit_message: "chore: update profile trophies"
+          file_pattern: assets/trophies.svg
