@@ -113,7 +113,7 @@
 
   <br>
 
-  <img src="<img src="https://my-github-trophies.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true&column=8&margin-w=15" alt="Trophies" />" />
+  <img src="https://my-github-trophies.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true&column=8&margin-w=15" alt="Trophies" />
 
   <br><br>
 
