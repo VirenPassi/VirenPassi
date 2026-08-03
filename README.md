@@ -78,13 +78,15 @@
 * **Role:** First Author 
 * **Overview:** Engineered a two-stage hybrid framework integrating Random Forest and XGBoost via probabilistic averaging. Implemented an Isolation Forest-based anomaly override to dynamically flag uncertain samples, achieving 91.49% test accuracy and significantly reducing false negatives.
 * **Tech:** `Python`, `XGBoost`, `Isolation Forest`, `ANOVA F-score`
+
 **[A Novel Approach for Evaluating Spatial-Temporal Synergy in Hybrid CNN-RNN and Vision Transformer Architectures](https://www.igi-global.com/article/a-novel-approach-for-evaluating-spatial-temporal-synergy-in-hybrid-cnn-rnn-and-vision-transformer-architectures/411189)** *(Published: IJIIT 2026)*
 * **Role:** First Author
 * **Overview:** Developed a hybrid deep learning architecture combining Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) to capture both spatial and temporal features. Achieved 92.24% test accuracy on the CIFAR-10 dataset, providing a rigorous comparative evaluation against Vision Transformer (ViT) models for multi-class pattern recognition tasks.
 * **Tech:** `Python`, `CNN-RNN`, `Vision Transformers (ViTs)`, `CIFAR-10`
 
-**Intelligent Hybrid Image Enhancement for Smart Devices(https://drive.google.com/file/d/1hyMdAYfHZKSOc7qSMUANT7DrmyS1O6Yx/view)** *(Accepted: ICCE-Taiwan IEEE 2026)*
-* **Overview:** Designed an AI-based super-resolution framework specifically tuned for low-power mobile consumer hardware[cite: 1]. Conducted a comparative study of CNN-RNN hybrid architectures versus standard Vision Transformers to optimize efficiency[cite: 1].
+**[Intelligent Hybrid Image Enhancement for Smart Devices](https://drive.google.com/file/d/1hyMdAYfHZKSOc7qSMUANT7DrmyS1O6Yx/view)** *(Accepted: ICCE-Taiwan IEEE 2026)*
+* **Role:** First Author
+* **Overview:** Designed an AI-based super-resolution framework specifically tuned for low-power mobile consumer hardware. Conducted a comparative study of CNN-RNN hybrid architectures versus standard Vision Transformers to optimize efficiency.
 * **Tech:** `Python`, `Deep Learning`, `Super-Resolution`
 
 ---
