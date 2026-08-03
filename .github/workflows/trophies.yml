@@ -12,18 +12,17 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          
-      - name: Create assets directory
-        run: mkdir -p assets
 
-      - name: Generate Trophy SVG via NPX
-        run: |
-          npx @ryo-ma/github-profile-trophy generate -u VirenPassi --theme tokyonight --no-bg false --no-frame true --column 8 --margin-w 15 --output assets/trophies.svg
+      - name: Generate Trophy SVG
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const res = await fetch('https://github-profile-trophy.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true&column=8&margin-w=15');
+            if (!res.ok) throw new Error(`Failed to fetch trophy: ${res.statusText}`);
+            const svgText = await res.text();
+            fs.mkdirSync('assets', { recursive: true });
+            fs.writeFileSync('assets/trophies.svg', svgText);
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
