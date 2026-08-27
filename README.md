@@ -90,7 +90,7 @@
 
 ---
 
-### 📊 Stats
+### 📊 Stats & Achievements
 
 <div align="center">
   <table border="0">
@@ -113,11 +113,28 @@
 
   <br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirenPassi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirenPassi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
 
-  <br><br>
+  <br>
+
+  <!-- Verified Milestones & Achievements -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/First_Author_Researcher-3670A0?style=for-the-badge&logo=ieee&logoColor=white" />
+    <img src="https://img.shields.io/badge/GSoC_Contributor_Ecosystem-2EAD33?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/OPPIA_CO_LEAD-121011?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Amazon_ML_Summer_School-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
+  </p>
+
+  <br>
+
+<!-- GitHub Profile Trophies -->
+  <p align="center">
+    <img src="https://trophy.ryglcloud.net/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true&column=8&margin-w=15" alt="Viren's Trophies" />
+  </p>
+
+  <br>
 
   *“Precision in logic, perfection in execution.”*
 </div>
