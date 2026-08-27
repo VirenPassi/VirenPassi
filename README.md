@@ -96,11 +96,11 @@
   <table border="0">
     <tr>
       <td width="48%" align="center" valign="top">
-        <img src="https://my-github-stats-teal-six.vercel.app/api?username=VirenPassi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=viren_final_revised" height="195px" />
+        <img src="https://github-readme-stats-steel-two-25.vercel.app/api?username=VirenPassi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=viren_final_revised" height="195px" />
       </td>
       <td width="4%" align="center"></td>
       <td width="48%" align="center" valign="top">
-        <img src="https://my-github-stats-teal-six.vercel.app/api/top-langs/?username=VirenPassi&layout=donut&theme=tokyonight&hide_border=true&hide=html,css,php,hack,json,yaml,typescript&langs_count=5" height="195px" />
+        <img src="https://github-readme-stats-steel-two-25.vercel.app/api/top-langs/?username=VirenPassi&layout=donut&theme=tokyonight&hide_border=true&hide=html,css,php,hack,json,yaml,typescript&langs_count=5" height="195px" />
       </td>
     </tr>
   </table>
