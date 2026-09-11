@@ -1,0 +1,36 @@
+name: Generate Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs automatically once a day
+  workflow_dispatch:    # Allows you to trigger it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # Allows the bot to commit the image to your repo
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        
+      - name: Generate Trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: VirenPassi
+          theme: tokyonight
+          no-bg: false
+          no-frame: true
+          column: 8
+          margin-w: 15
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add trophy.svg
+          git commit -m "chore: auto-update github trophies" || echo "No changes to commit"
+          git push
