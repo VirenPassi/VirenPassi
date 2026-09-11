@@ -131,7 +131,7 @@
 
 <!-- GitHub Profile Trophies -->
   <p align="center">
-    <img src="https://trophy.ryglcloud.net/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true&column=8&margin-w=15" alt="Viren's Trophies" />
+    <img src="https://github-profile-trophy-hdag.vercel.app/?username=VirenPassi&theme=tokyonight&no-bg=false&no-frame=true&column=8&margin-w=15" alt="Viren's Trophies" />
   </p>
 
   <br>
